@@ -3,3 +3,10 @@ search_enabled: false
 url: https://lumen01.github.io/jienggongwaa
 title: 阳江话拼音输入方案教程
 description: 通过本教程可以学习 RIME 阳江话拼音输入方案
+# Aux links for the upper right navigation
+aux_links:
+  "项目地址：RIME 阳江话拼音输入方案":
+    - "//github.com/Lumen01/rime-jienggong-cantonese"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
